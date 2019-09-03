@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Matrices1",
+            "request": "launch",
+            "mainClass": "app.Matrices1",
+            "projectName": "Matrices"
+        }
+    ]
+}
